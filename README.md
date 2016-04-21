@@ -1,7 +1,11 @@
 # ctr
+
 CSC 591 BI Capstone Project
+
 Team 10
+
 Team Members: Ashutosh Chaturvedi, Harshdeep Kaur, Sameer Sharma, Surbhi Gupta, Vipul Kashyap
+
 Project Name: Click Through Rate (CTR)
 
 Files:
@@ -21,3 +25,9 @@ Preprocessing done for the data.
 
 Naive Bayes :
 Log Loss : 0.48859290292
+
+Logistic Regression (Vanilla): 
+Log Loss : 0.455320570096
+ 
+Logistic Model with SGD and L2 regularization :
+Log Loss : 0.455691452922
