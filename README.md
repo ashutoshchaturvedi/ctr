@@ -24,10 +24,13 @@ Length of validation data:  330000
 Preprocessing done for the data.
 
 Naive Bayes :
+
 Log Loss : 0.48859290292
 
 Logistic Regression (Vanilla): 
+
 Log Loss : 0.455320570096
  
 Logistic Model with SGD and L2 regularization :
+
 Log Loss : 0.455691452922
