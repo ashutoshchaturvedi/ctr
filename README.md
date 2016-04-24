@@ -6,11 +6,11 @@ _Team 10 Members: Ashutosh Chaturvedi, Harshdeep Kaur, Sameer Sharma, Surbhi Gup
 > _Click-through rate (CTR)_ is the ratio of users who click on a specific link to the number of total users who view a page, email, or advertisement. It is commonly used to measure the success of an online advertising campaign for a particular website as well as the effectiveness of email campaigns.
 
 ### Dataset
-* [Data Files](https://www.kaggle.com/c/avazu-ctr-prediction/data)
-* __File descriptions__
-* train - Training set. 10 days of click-through data, ordered chronologically. Non-clicks and clicks are subsampled according to different strategies.
-* test - Test set. 1 day of ads to for testing your model predictions. 
-* sampleSubmission.csv - Sample submission file in the correct format, corresponds to the All-0.5 Benchmark.
+Data is available at Kaggle Avazu-CTR-Prediction page: [Data Files](https://www.kaggle.com/c/avazu-ctr-prediction/data)
+__File descriptions__
+* train: Training set. 10 days of click-through data, ordered chronologically. Non-clicks and clicks are subsampled according to different strategies.
+* test: Test set. 1 day of ads to for testing your model predictions. 
+* sampleSubmission.csv: Sample submission file in the correct format, corresponds to the All-0.5 Benchmark.
 
 
 
