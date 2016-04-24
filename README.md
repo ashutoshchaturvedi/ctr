@@ -2,7 +2,7 @@
 
 **Capstone Project**
 **CSC 591/791 Algorithms for Data Guided Business Intelligence**
-*Team 10 Members: Ashutosh Chaturvedi, Harshdeep Kaur, Sameer Sharma, Surbhi Gupta, Vipul Kashyap*
+**Team 10 Members: Ashutosh Chaturvedi, Harshdeep Kaur, Sameer Sharma, Surbhi Gupta, Vipul Kashyap**
 
 ### Files:
 * base_model.py - Files contains the code for running some base models on the given data.
