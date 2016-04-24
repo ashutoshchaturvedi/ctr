@@ -1,8 +1,6 @@
-##                                          CTR _(Click-Through Rate)_
-
-**Capstone Project**
+## CTR _(Click-Through Rate)_
 **CSC 591/791 Algorithms for Data Guided Business Intelligence**
-**Team 10 Members: Ashutosh Chaturvedi, Harshdeep Kaur, Sameer Sharma, Surbhi Gupta, Vipul Kashyap**
+_Team 10 Members: Ashutosh Chaturvedi, Harshdeep Kaur, Sameer Sharma, Surbhi Gupta, Vipul Kashyap_
 
 ### Files:
 * base_model.py - Files contains the code for running some base models on the given data.
