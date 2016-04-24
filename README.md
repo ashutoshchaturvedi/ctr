@@ -7,10 +7,17 @@ _Team 10 Members: Ashutosh Chaturvedi, Harshdeep Kaur, Sameer Sharma, Surbhi Gup
 
 ### Dataset
 Data is available at Kaggle Avazu-CTR-Prediction page: [Data Files](https://www.kaggle.com/c/avazu-ctr-prediction/data)
+
 __File descriptions__
 * train: Training set. 10 days of click-through data, ordered chronologically. Non-clicks and clicks are subsampled according to different strategies.
 * test: Test set. 1 day of ads to for testing your model predictions. 
 * sampleSubmission.csv: Sample submission file in the correct format, corresponds to the All-0.5 Benchmark.
+
+### Algorithms Implemented
+* Naive Bayes
+* Logistic Regression
+* FTRL (Follow the Regularized Leader)
+
 
 
 
