@@ -23,5 +23,11 @@ _Logistic Regression & Naive Bayes_
 * generate_data_file.py - Data pre-processing to code.
 
 _FTRL (Follow the Regularized Leader)_
-* ftrl.py - Implementation of FTRL Algorithm for CTR.
+* FTRL.py - Implementation of FTRL Algorithm for CTR.
+
+### Usage:
+Require [pypy](http://pypy.org/) to run program faster.
+```
+python FTRL.py
+```
 
