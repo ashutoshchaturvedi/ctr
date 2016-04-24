@@ -1,5 +1,6 @@
 ## CTR _(Click-Through Rate)_
 **CSC 591/791 Algorithms for Data Guided Business Intelligence**
+
 _Team 10 Members: Ashutosh Chaturvedi, Harshdeep Kaur, Sameer Sharma, Surbhi Gupta, Vipul Kashyap_
 
 ### Files:
