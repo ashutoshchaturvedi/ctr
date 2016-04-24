@@ -26,7 +26,11 @@ _FTRL (Follow the Regularized Leader)_
 * FTRL.py - Implementation of FTRL Algorithm for CTR.
 
 ### Usage:
-Require [pypy](http://pypy.org/) to run program faster.
+Naive Bayes and Logistic Regression Implementation:
+```
+python base_model.py
+```
+FTRL Implemenration: Require [pypy](http://pypy.org/) to run program faster.
 ```
 python FTRL.py
 ```
