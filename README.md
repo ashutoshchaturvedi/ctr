@@ -18,6 +18,9 @@ __File descriptions__
 * FTRL (Follow the Regularized Leader)
 
 ### Files:
-_Logistic Regression_
-* base_model.py - Files contains the code for running some base models on the given data.
-* generate_data_file.py - Contains code to create smaller data files with lesser records randomly chosen from the given data set.
+_Logistic Regression & Naive Bayes_
+* base_model.py - Implementation of Naive Bayes and Logistic Regression Algorithm for predicting CTR.
+* generate_data_file.py - Data pre-processing to code.
+_FTRL (Follow the Regularized Leader)_
+* ftrl.py - Implementation of FTRL Algorithm for CTR.
+
