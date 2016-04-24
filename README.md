@@ -21,6 +21,7 @@ __File descriptions__
 _Logistic Regression & Naive Bayes_
 * base_model.py - Implementation of Naive Bayes and Logistic Regression Algorithm for predicting CTR.
 * generate_data_file.py - Data pre-processing to code.
+
 _FTRL (Follow the Regularized Leader)_
 * ftrl.py - Implementation of FTRL Algorithm for CTR.
 
